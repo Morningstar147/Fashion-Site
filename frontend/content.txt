@@ -1,0 +1,9 @@
+colors: {
+    PrimaryColor: "#f5ebe0",
+    secondaryColor: "#e3d5ca",
+    DarkColor: "#d4a373",
+    ExtraDarkColor: "#a98467",
+},
+
+shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px]
+
